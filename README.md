@@ -1,4 +1,4 @@
-# 📊 Smart Ad Campaign Manager
+#  Smart Ad Campaign Manager
 
 A full-stack dashboard where marketers can create ad campaigns, manage budgets, track performance, and compare results across platforms like Google Ads, Facebook, Instagram, LinkedIn, TikTok and X.
 
@@ -8,7 +8,7 @@ A full-stack dashboard where marketers can create ad campaigns, manage budgets, 
 ![Express](https://img.shields.io/badge/Express-4-000000?logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white)
 
-## ✨ Highlights
+##  Highlights
 
 - **Campaign management:** create, edit, pause, resume and delete campaigns
 - **Budget tracking:** total and daily budgets, spend progress, overspend warnings
@@ -19,7 +19,7 @@ A full-stack dashboard where marketers can create ad campaigns, manage budgets, 
 - **Filters:** date range, status, platform, search and sorting
 - **Accessible design:** a table view for every chart, colorblind-safe colors, light and dark mode
 
-## 🛠️ Tech stack
+## Tech stack
 
 | Layer | Technologies |
 |---|---|
